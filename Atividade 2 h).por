@@ -2,7 +2,7 @@ programa {
   funcao inicio() {
     // Declaração de Variáveis
     real taxaUSD, taxaGBP, taxaEUR
-    real gastosUSD, gastosGBP, gastosEUR
+    real gastosUSD, gastosGBP,  gastosEUR
     real gastoTotal, saldoFinal
 
     // Declaração de Constante
